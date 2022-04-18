@@ -1,6 +1,6 @@
 # SJGriffin's About Me website
 
-###S Hello, Welcome to my website
+### Hello, Welcome to my website
 Here you will find information about me as well as some projects I have done.
 
 Click [here](https://sjgriffin21.github.io/aboutMe) to go to About Me
